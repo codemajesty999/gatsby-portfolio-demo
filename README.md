@@ -1,4 +1,4 @@
-# Gatsby Portfolio Demo
+# Gatsby Portfolio Demo (Trial)
 This is my personal portfolio powered by gatsby an contenful
 
 ![thumbnail](thumbnail.png)
